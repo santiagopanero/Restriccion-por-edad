@@ -1,0 +1,50 @@
+.boton {
+	background: blue;
+	color: white;
+	cursor: pointer;
+	margin-top: 18px;
+	border-radius: 5px;
+	padding: 22px 46px;
+	font-family: sans-serif;
+	font-size: 25px;
+	display: inline-block;
+}
+
+.texto {
+	width: 280px;
+	height: 40px;
+}
+
+.cartel {
+	display: block;
+	border-radius: 3px;
+	margin-top: 18px;
+	padding: 12px;
+	display: inline-block;
+	color: white;
+	font-family: sans-serif;
+}
+
+.cartelAceptado {
+	background: green;
+}
+
+.cartelDenegado {
+	background: red;
+}
+
+.imagenBienvenida {
+	display: block;
+	margin-top: 18px;
+	display: inline-block;
+	width: 200px;
+	height: 250px;
+}
+
+.imagenPasas {
+    content:url(https://www.meme-arsenal.com/memes/306c62bb4a19c9d6032c79535a58b308.jpg);
+}
+
+.imagenNoPasas {
+    content:url(https://www.meme-arsenal.com/memes/f3ff346e1f83d25444be74b5e0ba6603.jpg);
+}
